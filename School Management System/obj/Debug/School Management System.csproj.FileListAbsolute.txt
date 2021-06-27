@@ -5,10 +5,11 @@ W:\__WORK__\NewWave Technologies (India)\_Training_\Code\Advanced Database\Schoo
 W:\__WORK__\NewWave Technologies (India)\_Training_\Code\Advanced Database\School Management System\School Management System\bin\Debug\EntityFramework.SqlServer.dll
 W:\__WORK__\NewWave Technologies (India)\_Training_\Code\Advanced Database\School Management System\School Management System\bin\Debug\EntityFramework.xml
 W:\__WORK__\NewWave Technologies (India)\_Training_\Code\Advanced Database\School Management System\School Management System\bin\Debug\EntityFramework.SqlServer.xml
-W:\__WORK__\NewWave Technologies (India)\_Training_\Code\Advanced Database\School Management System\School Management System\obj\Debug\School Management System.csprojAssemblyReference.cache
 W:\__WORK__\NewWave Technologies (India)\_Training_\Code\Advanced Database\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
 W:\__WORK__\NewWave Technologies (India)\_Training_\Code\Advanced Database\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
 W:\__WORK__\NewWave Technologies (India)\_Training_\Code\Advanced Database\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
 W:\__WORK__\NewWave Technologies (India)\_Training_\Code\Advanced Database\School Management System\School Management System\obj\Debug\School Management System.csproj.CopyComplete
 W:\__WORK__\NewWave Technologies (India)\_Training_\Code\Advanced Database\School Management System\School Management System\obj\Debug\School Management System.exe
 W:\__WORK__\NewWave Technologies (India)\_Training_\Code\Advanced Database\School Management System\School Management System\obj\Debug\School Management System.pdb
+W:\__WORK__\NewWave Technologies (India)\_Training_\Code\Advanced Database\School Management System\School Management System\obj\Debug\School Management System.csprojAssemblyReference.cache
+W:\__WORK__\NewWave Technologies (India)\_Training_\Code\Advanced Database\School Management System\School Management System\obj\Debug\School_Management_System.Form1.resources

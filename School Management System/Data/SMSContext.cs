@@ -1,11 +1,10 @@
 ﻿using School_Management_System.Data.Entities;
 using School_Management_System.Data.Entity;
 using System;
-using System.Collections.Generic;
 using System.Data.Entity;
+using System.Data.Linq;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace School_Management_System.Data
 {
@@ -13,7 +12,7 @@ namespace School_Management_System.Data
     {
         public SMSContext() : base("SMSDB")
         {
-
+            
         }
 
 
@@ -28,6 +27,8 @@ namespace School_Management_System.Data
         public virtual DbSet<StudentClass> StudentClasses { get; set; }
         public virtual DbSet<Student> Students { get; set; }
         public virtual DbSet<Teacher> Teachers { get; set; }
-        public virtual DbSet<Subject> Subjects { get; set; }
-}
+        public virtual DbSet<Subject> Subjects { get; set; }    
+
+    }
+
 }
